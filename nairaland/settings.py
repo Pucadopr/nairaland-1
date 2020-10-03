@@ -14,7 +14,7 @@ BOT_NAME = 'nairaland'
 SPIDER_MODULES = ['nairaland.spiders']
 NEWSPIDER_MODULE = 'nairaland.spiders'
 
-MONGODB_SERVER = 'localhost'
+MONGODB_SERVER = 'mongodb+srv://lomods:2p5yuyweaix1VXHA@cluster0.oxoaf.mongodb.net/nairaland?retryWrites=true&w=majority'
 
 MONGODB_PORT = 27017
 
